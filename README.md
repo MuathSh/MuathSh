@@ -1,77 +1,108 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Muath Sh — Computer Engineering, Systems, Software, Networks, and AI" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/MuathSh"><img src="https://img.shields.io/badge/GitHub-MuathSh-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub: MuathSh" /></a>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Engineering-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Focus: Computer Engineering" />
-  <img src="https://img.shields.io/badge/Always-Learning-0B1220?style=for-the-badge&labelColor=0B1220&color=164E63" alt="Always learning" />
-</p>
+# Moath Alshehri
 
-<p align="center"><em>Understanding systems. Building useful software. Exploring what comes next.</em></p>
+### Computer Engineer • Software & Systems • Hardware Integration
+
+I enjoy understanding how systems work beneath the surface and building software that interacts with real hardware.
+
+Currently expanding my experience across **systems engineering, low-level programming, cross-platform development, and hardware–software integration**.
+
+</div>
 
 ---
 
-## `01 / About`
+## About Me
 
-I'm Muath, focused on computer engineering and how software and computer systems work together. I enjoy exploring ideas across **software engineering, networks, computer systems, and AI**—then turning what I learn into practical projects.
+- 🎓 **Computer Engineering** graduate from King Khalid University
+- ⚙️ Interested in **Systems Engineering, Software Engineering, and Hardware Integration**
+- 🧠 I prefer learning from **first principles**, which makes adapting to new programming languages and technologies much easier
+- 🛠️ Currently studying **Systems Engineering & Programming** at Tuwaiq Academy
+- 📜 Certified Graduate Computer Engineer by the **Saudi Council of Engineers (SCE)**
+- 🤝 Comfortable working across both technical and multidisciplinary teams
 
-## `02 / Areas I Explore`
+---
 
-<p align="center">
-  <img src="./assets/focus-map.svg" width="100%" alt="Four areas of interest: computer systems, software engineering, networks, and artificial intelligence." />
-</p>
+## Featured Work
 
-- **Computer systems** — understanding the layers beneath everyday software.
-- **Software engineering** — building useful, maintainable tools.
-- **Networks** — learning how devices and systems communicate.
-- **Artificial intelligence** — exploring intelligent approaches to real problems.
+### USB Ports Controller
 
-## `03 / Featured Project`
+A cross-platform application for monitoring and controlling hardware devices and ports across **Linux, Windows, and macOS**.
 
-<a href="https://github.com/MuathSh/USB-ports-controller">
-  <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuathSh&repo=USB-ports-controller&theme=transparent&hide_border=true&title_color=67E8F9&text_color=C9D1D9&icon_color=22D3EE" alt="USB-ports-controller repository card" />
-</a>
+**Highlights**
 
-### [USB-ports-controller](https://github.com/MuathSh/USB-ports-controller)
+- Detect connected devices and ports
+- View detailed hardware information
+- Enable and disable supported devices
+- Platform-specific backends
+- Graphical interface using PyQt6
+- Native macOS interaction through C
+- Linux device management using `pyudev`
 
-A cross-platform project for inspecting and controlling USB devices and ports on **Linux, Windows, and macOS**. It brings together device information, platform-specific backends, and a graphical interface.
+**Tech:** `Python` · `C` · `PyQt6` · `Linux` · `Windows` · `macOS`
 
-<br clear="right" />
+[View Repository →](https://github.com/MuathSh/USB-ports-controller)
 
-## `04 / Learning`
+---
 
-**Systems Engineering and Programming Bootcamp** — Tuwaiq Academy
+### Assistant Robot Workplace Interaction
 
-## `05 / GitHub Snapshot`
+My graduation project focused on integrating **software, artificial intelligence, and physical hardware** into a complete robotic system.
 
-These cards pull public information from GitHub automatically, so the numbers and language breakdown can change as the profile changes.
+I worked with a multidisciplinary team on:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuathSh&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=67E8F9&text_color=C9D1D9&icon_color=22D3EE" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuathSh&layout=compact&hide_border=true&langs_count=6&theme=transparent&title_color=67E8F9&text_color=C9D1D9&icon_color=22D3EE" alt="Most-used languages across public repositories" />
-</p>
+- System design and implementation
+- Python-based software development
+- Facial analysis and recognition libraries
+- Hardware–software integration
+- Engineering documentation and technical reporting
 
-<p align="center">
-  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuathSh&bg_color=0B1220&color=C9D1D9&line=22D3EE&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</p>
+---
 
-### Contribution trail
+## Tech Stack
 
-The snake animation below is generated by GitHub Actions and refreshes automatically twice a day.
+**Programming**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuathSh/MuathSh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuathSh/MuathSh/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake following the GitHub contribution graph" src="https://raw.githubusercontent.com/MuathSh/MuathSh/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
+![C](https://img.shields.io/badge/C-Programming-555555?logo=c)
+![C++](https://img.shields.io/badge/C++-Programming-555555?logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-Programming-555555?logo=python)
+![Java](https://img.shields.io/badge/Java-Programming-555555?logo=openjdk)
 
-## `06 / Connect`
+**Data**
 
-<p align="left">
-  <a href="https://github.com/MuathSh"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Visit my GitHub profile" /></a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-Database-555555?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-555555?logo=postgresql)
 
-<p align="center"><sub>Designed around systems, engineering, and continuous learning.</sub></p>
+**Areas I Work With**
+
+`Systems Programming` · `Hardware / Software Integration` · `Cross-Platform Development` · `Networking` · `System Design`
+
+---
+
+## Engineering Mindset
+
+I am more interested in understanding **why something works** than simply making it work.
+
+My approach is built around understanding the underlying principles of software and hardware, allowing me to move between technologies without being tied to a specific language or framework.
+
+> First-principles understanding enables rapid adaptation across programming languages.
+
+---
+
+## Currently Exploring
+
+- Low-level and high-level programming
+- System architecture
+- Cross-platform hardware control
+- Software engineering practices
+- Hardware and software integration
+
+---
+
+<div align="center">
+
+### Build. Understand. Improve.
+
+[GitHub](https://github.com/MuathSh) • [Email](mailto:ce.moath.alshehri@gmail.com)
+
+</div>
