@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">Muath Sh — Computer Engineering</title>
+  <desc id="desc">A dark technical banner with a circuit-inspired systems diagram and a focus on software, systems, networks, and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070D18"/><stop offset="0.62" stop-color="#0B1727"/><stop offset="1" stop-color="#102A3A"/></linearGradient>
+    <radialGradient id="glow" cx="76%" cy="50%" r="58%"><stop offset="0" stop-color="#0891B2" stop-opacity="0.20"/><stop offset="1" stop-color="#0891B2" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#7DD3FC" stroke-opacity="0.075" stroke-width="1"/></pattern>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#67E8F9"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="15"/></filter>
+  </defs>
+  <rect width="1200" height="310" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="310" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="310" rx="22" fill="url(#glow)"/>
+  <circle cx="900" cy="150" r="90" fill="#0EA5E9" opacity="0.10" filter="url(#soft)"/>
+  <path d="M32 28H1168V282H32Z" fill="none" stroke="#94A3B8" stroke-opacity="0.20"/>
+  <path d="M32 54H48M32 54V38M1168 54H1152M1168 54V38M32 256H48M32 256V272M1168 256H1152M1168 256V272" fill="none" stroke="#67E8F9" stroke-width="2"/>
+  <text x="66" y="78" fill="#67E8F9" font-size="13" letter-spacing="3" font-family="monospace">PROFILE / COMPUTER ENGINEERING</text>
+  <text x="64" y="151" fill="#F8FAFC" font-size="65" font-weight="750" letter-spacing="1" font-family="Inter, Segoe UI, Arial, sans-serif">MUATH SH</text>
+  <rect x="67" y="173" width="4" height="24" rx="2" fill="#22D3EE"/>
+  <text x="84" y="190" fill="#CBD5E1" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif">Computer Engineering · Systems &amp; Software</text>
+  <text x="68" y="231" fill="#94A3B8" font-size="14" font-family="monospace">SOFTWARE  /  SYSTEMS  /  NETWORKS  /  AI</text>
+  <rect x="67" y="249" width="190" height="24" rx="12" fill="#0F2F42" stroke="#155E75"/>
+  <circle cx="82" cy="261" r="4" fill="#34D399"/>
+  <text x="94" y="265" fill="#A5F3FC" font-size="11" letter-spacing="1.4" font-family="monospace">LEARN · BUILD · ITERATE</text>
+  <g opacity="0.98" stroke="url(#stroke)" stroke-width="1.6" fill="none">
+    <path d="M800 97H858V126H883"/><path d="M800 205H858V176H883"/>
+    <path d="M1015 126H1057V96H1101"/><path d="M1015 176H1057V206H1101"/>
+    <path d="M949 94V70H989"/><path d="M949 208V232H989"/>
+    <path d="M883 126H873V151H858" stroke-dasharray="4 5"/>
+    <path d="M1015 151H1035" stroke-dasharray="4 5"/>
+  </g>
+  <g fill="#0B1727" stroke="#22D3EE" stroke-width="1.5">
+    <rect x="883" y="103" width="132" height="96" rx="10"/>
+    <rect x="784" y="79" width="74" height="36" rx="7"/>
+    <rect x="784" y="187" width="74" height="36" rx="7"/>
+    <rect x="1101" y="78" width="45" height="36" rx="7"/>
+    <rect x="1101" y="188" width="45" height="36" rx="7"/>
+    <rect x="989" y="53" width="70" height="30" rx="7"/>
+    <rect x="989" y="219" width="70" height="30" rx="7"/>
+  </g>
+  <g fill="#A5F3FC" font-family="monospace" text-anchor="middle">
+    <text x="821" y="101" font-size="11">NET</text>
+    <text x="821" y="209" font-size="11">SYS</text>
+    <text x="1123" y="100" font-size="10">AI</text>
+    <text x="1123" y="210" font-size="10">DEV</text>
+    <text x="1024" y="72" font-size="10">INPUT</text>
+    <text x="1024" y="238" font-size="10">OUTPUT</text>
+  </g>
+  <g stroke="#67E8F9" stroke-opacity="0.85" fill="none" stroke-width="1.2">
+    <rect x="902" y="122" width="94" height="58" rx="5"/>
+    <path d="M918 136H980M918 146H967M918 156H975M918 166H954"/>
+    <path d="M913 116V122M925 116V122M937 116V122M949 116V122M961 116V122M973 116V122M985 116V122"/>
+    <path d="M913 180V186M925 180V186M937 180V186M949 180V186M961 180V186M973 180V186M985 180V186"/>
+  </g>
+  <circle cx="858" cy="126" r="3.2" fill="#67E8F9"/><circle cx="858" cy="205" r="3.2" fill="#67E8F9"/>
+  <circle cx="1057" cy="96" r="3.2" fill="#67E8F9"/><circle cx="1057" cy="206" r="3.2" fill="#67E8F9"/>
+</svg>
